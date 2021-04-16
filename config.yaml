@@ -2,7 +2,6 @@ baseurl: /
 languageCode: en-us
 title: Vis Grammar SIG
 theme: hugo-lithium
-publishDir: "../sig-visgrammar-chi21/"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
