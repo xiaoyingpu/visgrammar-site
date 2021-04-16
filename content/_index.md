@@ -13,14 +13,19 @@ in visualization research.
 In this SIG, we will discuss what makes a grammar “good” and explore evaluation methodologies best suited for visualization grammars.
 
 
-## Tentative Format
+## For participants
 
-Panel and breakout discussions.
+We welcome researchers, students, and practitioners with different levels of experience in visualization grammars. Even if you may not have experience developing a visualization grammar, you can have created visualizations or have domain expertise in data work and evaluation methods.
+
+
+### SIG format
+
+Panel and breakout discussions, more info coming soon. 
 
 
 ### Panelists
 
-{{< paper "/images/pu.jpg"
+{{< paper ""
   "__Xiaoying Pu__ (Moderator)"
 "A Probabilistic Grammar of Graphics" >}}
 
