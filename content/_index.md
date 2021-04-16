@@ -1,5 +1,5 @@
 ---
-title: "SIG on Visualization Grammars"
+title: "SIG on Visualization Grammars at CHI '21"
 ---
 
 
