@@ -20,6 +20,11 @@ Panel and breakout discussions.
 
 ### Panelists
 
+{{< paper "/images/pu.jpg"
+  "__Xiaoying Pu__ (Moderator)"
+"A Probabilistic Grammar of Graphics" >}}
+
+
 {{< paper ""
   "__Dominik Moritz__"
 "Vega-Lite or Draco/Draco2" >}}
@@ -38,7 +43,7 @@ Xiaoying Pu, Matthew Kay, Steven Drucker, Jeffrey Heer, Dominik Moritz, Arvind S
 
 ## The SIG Proposal
 
-{{< paper ""
+{{< paper "/images/proposal.png"
   "Xiaoying Pu, Matthew Kay, Steven M. Drucker, Jeffrey Heer, Dominik Moritz, and Arvind Satyanarayan. 2021. _Special Interest Group on Visualization Grammars_. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI ‘21 Extended Abstracts), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA 3 Pages."
 "[[PDF]](/files/proposal.pdf)" >}}
 
