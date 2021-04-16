@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather'), local('Merriweather-Regular'),
+       url('../fonts/merriweather-v13-latin-regular.woff2') format('woff2'),
+       url('../fonts/merriweather-v13-latin-regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'),
+       url('../fonts/lato-v11-latin-regular.woff2') format('woff2'),
+       url('../fonts/lato-v11-latin-regular.woff') format('woff');
+}
+
+
+body {
+  /* font-family: 'Merriweather', serif; */
+  /* font-family: 'Source Sans Pro', sans-serif */
+  /* font-family: 'PT Sans', sans-serif; */
+  /* font-family: 'PT Serif', serif; */
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Merriweather', serif; */
+}
+
+.strong {
+	font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link, .footer {
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+/* https://type-scale.com */
+
+
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1rem;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+
+h1 {
+  /* margin-top: 0; */
+  font-size: 1.802em;
+}
+
+h2 {font-size: 1.602em;}
+
+h3 {font-size: 1.424em;}
+
+h4 {font-size: 1.266em;}
+
+h5 {font-size: 1.125em;}
+
+small, .text_small {font-size: 0.889em;}

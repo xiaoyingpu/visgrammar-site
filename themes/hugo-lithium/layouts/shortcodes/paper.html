@@ -1,0 +1,15 @@
+
+<div class="row" id="paper">
+  <div class="two columns">
+      <img src="{{ .Get 0 }}" width="100%">
+  </div>
+  <div class="ten columns">
+    <p>{{ .Get 1 | markdownify }}</p>
+    <span>
+      {{ if .Get 2 }}
+    <p>{{ .Get 2 | markdownify }}</p>
+      {{ end }}
+    </span>
+  </div>
+
+</div>
