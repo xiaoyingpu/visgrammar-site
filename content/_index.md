@@ -22,7 +22,7 @@ Panel and breakout discussions.
 
 {{< paper ""
   "__Dominik Moritz__"
-"Vega-Lite or Draco (including Draco2)" >}}
+"Vega-Lite or Draco/Draco2" >}}
 
 {{< paper ""
   "__Leland Wilkinson__"
@@ -32,15 +32,23 @@ Panel and breakout discussions.
   "__Hadley Wickham__"
 "`ggplot2`" >}}
 
+## Organizers
 
-## Cite
+Xiaoying Pu, Matthew Kay, Steven Drucker, Jeffrey Heer, Dominik Moritz, Arvind Satyanarayan
 
-Xiaoying Pu, Matthew Kay, Steven M. Drucker, Jeffrey Heer, Dominik Moritz, and Arvind Satyanarayan. 2021. Special Interest Group on Visualization Grammars. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI '21 Extended Abstracts), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA 3 Pages. https://doi.org/10.1145/3411763.3450406
+## The SIG Proposal
+
+{{< paper ""
+  "Xiaoying Pu, Matthew Kay, Steven M. Drucker, Jeffrey Heer, Dominik Moritz, and Arvind Satyanarayan. 2021. _Special Interest Group on Visualization Grammars_. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI ‘21 Extended Abstracts), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA 3 Pages."
+"[[PDF]](/files/proposal.pdf)" >}}
+
+### Cite
+
 
 ```
 @inproceedings{pu2021special,
   title={Special Interest Group on Visualization Grammars},
-  author={Pu, Xiaoying, Matthew Kay, Steven M. Drucker, Jeffrey Heer, Dominik Moritz, and Arvind Satyanarayan},
+  author={Pu, Xiaoying, and Kay, Matthew and Drucker, Steven M. and Heer, Jeffrey and Moritz, Dominik  and Satyanarayan, Arvind},
   booktitle={CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI '21 Extended Abstracts)},
   pages={1--3},
   year={2021}

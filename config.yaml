@@ -17,11 +17,6 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: About
-      url: /about/
-      weight: 2
-    - name: Twitter
-      url: https://twitter.com/rstudio
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
