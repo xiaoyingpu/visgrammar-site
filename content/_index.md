@@ -18,12 +18,12 @@ In this SIG, we will discuss what makes a grammar “good” and explore evaluat
 We welcome researchers, students, and practitioners with different levels of experience in visualization grammars. Even if you may not have experience developing a visualization grammar, you can have created visualizations or have domain expertise in data work and evaluation methods.
 
 
-### SIG format
+### What to expect
 
-Panel and breakout discussions, more info coming soon. 
+Interactive panel and breakout discussions. Detailed schedule coming soon. 
 
 
-### Panelists
+### Our panelists
 
 {{< paper ""
   "__Xiaoying Pu__ (Moderator)"
@@ -42,17 +42,17 @@ Panel and breakout discussions, more info coming soon.
   "__Hadley Wickham__"
 "`ggplot2`" >}}
 
-## Organizers
+### Organizers
 
-Xiaoying Pu, Matthew Kay, Steven Drucker, Jeffrey Heer, Dominik Moritz, Arvind Satyanarayan
+Xiaoying Pu, Matthew Kay, Steven Drucker, Jeffrey Heer, Dominik Moritz, and Arvind Satyanarayan
 
-## The SIG Proposal
+## The SIG proposal document
 
 {{< paper "/images/proposal.png"
   "Xiaoying Pu, Matthew Kay, Steven M. Drucker, Jeffrey Heer, Dominik Moritz, and Arvind Satyanarayan. 2021. _Special Interest Group on Visualization Grammars_. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI ‘21 Extended Abstracts), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA 3 Pages."
 "[[PDF]](/files/proposal.pdf)" >}}
 
-### Cite
+### Cite us
 
 
 ```
