@@ -20,7 +20,7 @@ We welcome researchers, students, and practitioners with different levels of exp
 
 ### What to expect
 
-Interactive panel and breakout discussions. Detailed schedule coming soon. 
+Interactive panel and breakout discussions. Detailed schedule coming soon [here](/schedule/). 
 
 
 ### Our panelists
