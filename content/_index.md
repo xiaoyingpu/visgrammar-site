@@ -26,8 +26,8 @@ Interactive panel and breakout discussions. Detailed schedule coming soon [here]
 ### Our panelists
 
 {{< paper ""
-  "__Xiaoying Pu__ (Moderator)"
-"A Probabilistic Grammar of Graphics" >}}
+  "__Matthew Kay__ (Moderator) "
+"" >}}
 
 
 {{< paper ""
@@ -41,6 +41,10 @@ Interactive panel and breakout discussions. Detailed schedule coming soon [here]
 {{< paper ""
   "__Hadley Wickham__"
 "`ggplot2`" >}}
+
+{{< paper ""
+  "__Xiaoying Pu__ "
+"A Probabilistic Grammar of Graphics" >}}
 
 ### Organizers
 
