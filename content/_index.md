@@ -31,10 +31,6 @@ Interactive panel and breakout discussions. Detailed schedule coming soon [here]
 
 
 {{< paper ""
-  "__Dominik Moritz__"
-"Vega-Lite or Draco/Draco2" >}}
-
-{{< paper ""
   "__Leland Wilkinson__"
 "Grammar of Graphics" >}}
 
@@ -42,9 +38,15 @@ Interactive panel and breakout discussions. Detailed schedule coming soon [here]
   "__Hadley Wickham__"
 "`ggplot2`" >}}
 
+
+{{< paper ""
+  "__Dominik Moritz__"
+"Reflections on the Vega ecosystem and how Vega, Vega-Lite, and Draco relate to each other. Teaser for Draco 2: faster, simpler, and documented!" >}}
+
+
 {{< paper ""
   "__Xiaoying Pu__ "
-"A Probabilistic Grammar of Graphics" >}}
+"Challenges in evaluating visualization grammars encountered in the _[Probabilistic Grammar of Graphics](https://xiaoyingpu.github.io/project/pgog/)_ project" >}}
 
 ### Organizers
 
