@@ -41,7 +41,7 @@ Interactive panel and breakout discussions. Detailed schedule coming soon [here]
 
 {{< paper ""
   "__Dominik Moritz__"
-"Reflections on the Vega ecosystem and how Vega, Vega-Lite, and Draco relate to each other. Teaser for Draco 2: faster, simpler, and documented!" >}}
+"Reflections on the Vega ecosystem and how [Vega](https://vega.github.io), [Vega-Lite](https://vega.github.io/vega-lite/), and [Draco](https://uwdata.github.io/draco/) relate to each other. Teaser for [Draco 2](https://github.com/cmudig/draco2): faster, simpler, and documented!" >}}
 
 
 {{< paper ""
