@@ -32,7 +32,7 @@ Interactive panel and breakout discussions. Detailed schedule coming soon [here]
 
 {{< paper ""
   "__Leland Wilkinson__"
-"Grammar of Graphics" >}}
+"GG algebra is based on the algebra underlying statistical models that dates back to the founders of modern statistical inference and experimental design. It relies on the premise that the vast majority of quantitative visualizations involve statistical models (scatterplots, regressions, bar charts, etc.) and that generating these visualizations requires consistency with the statistical specifications." >}}
 
 {{< paper ""
   "__Hadley Wickham__"
